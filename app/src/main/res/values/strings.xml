@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Todo FibraOptc</string>
+    <string name="edtemail">Email</string>
+    <string name="edtpasword">Pasword</string>
+    <string name="btnlogin">Login</string>
+    <string name="btnregistrateaqui">Registrate Aqui!!</string>
+    <string name="txtBienvenida">Bienvenido al Sistema</string>
+    <string name="autor">Autor Casimiro Oropeza Medina (CasMag)</string>
+    <string name="txtspGrupoMtto">Seleccione su grupo</string>
+    <string name="txtspRegional">Seleccione su regional</string>
+    <string name="txtspProyecto">Seleccione el proyecto</string>
+    <string name="genero">Seleccione su genero</string>
+    <string name="edtnombreusu">Nombres</string>
+    <string name="edtapellidos">Apellidos</string>
+    <string name="registrar">Registrar</string>
+</resources>

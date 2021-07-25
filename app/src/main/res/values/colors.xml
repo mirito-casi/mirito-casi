@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ambar_200">#FFFCCD86</color>
+    <color name="ambar_500">#FFEE7B00</color>
+    <color name="ambar_700">#FF9A5002</color>
+    <color name="azul_200">#FF81D4FA</color>
+    <color name="azul_700">#FF283EC8</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

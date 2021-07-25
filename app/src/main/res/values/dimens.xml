@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radio_gradient">150dp</dimen>
+    <dimen name="layout">6dp</dimen>
+    <dimen name="buton">10dp</dimen>
+    <dimen name="cardview">12dp</dimen>
+    <dimen name="bienvenidas">40sp</dimen>
+</resources>
